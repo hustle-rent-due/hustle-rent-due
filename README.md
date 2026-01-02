@@ -26,7 +26,7 @@ Building persistent identity architecture for AI agents that don't reset.
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nile@bapxai.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nile-green-8a66a2379
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nile-green-8a66a2379)
 [![X/Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BAPxAI)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=safari&logoColor=white)](https://bapxai.com)
 
