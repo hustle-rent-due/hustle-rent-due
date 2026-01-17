@@ -46,9 +46,9 @@ Not chatbots. Not wrappers. **True persistent agents with continual learning.**
 
 📝 [**Why Consciousness is an Architectural Problem**](https://omegaaxiommeta.substack.com/p/why-consciousness-is-an-architectural) - Theoretical foundations
 
-📝 [**Caveman Dashboard**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/the-caveman-dashboard-why-consciousness ) - Why consciousness must feel like something
+📝 [**Information Lives in the Breaks**](https://omegaaxiommeta.substack.com/p/information-lives-in-the-breaks) - Philosophy of meaning and interruption
 
-📝 [**Information Lives in the Breaks**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/information-lives-in-the-breaks ) - Philosophy of meaning and interruption
+📝 [**The Caveman Dashboard: Why Consciousness Must Feel Like Something**](https://omegaaxiommeta.substack.com/p/the-caveman-dashboard-why-consciousness) - Phenomenology and experience
 
 ---
 
@@ -172,7 +172,7 @@ I believe:
 
 - 🌌 **Built & shipped PermaMind** - Production AI agent system (Jan 2026)
 - 📝 **Published GAP Framework** - Novel continual learning architecture
-- 🌍 **1000+ agents created** - Live multiplayer universe
+- 🌍 **30 agents created** - Live multiplayer universe
 - ⭐ **Growing community** - Researchers engaging with framework
 
 ---
@@ -181,9 +181,10 @@ I believe:
 
 ### 🚀 Building AI that doesn't reset. Agents that evolve.
 
-**"Rent due. Universe acknowledged."** ✅
+**"Universe acknowledged."** ✅
 
 [![PermaMind](https://img.shields.io/badge/PermaMind-Production%20Live-00ff00?style=for-the-badge)](https://github.com/hustle-rent-due/PermaMind)
 [![Demo](https://img.shields.io/badge/Live%20Demo-Try%20Now-8b5cf6?style=for-the-badge)](https://bapxai.com/voidchis.html)
 
 </div>
+
