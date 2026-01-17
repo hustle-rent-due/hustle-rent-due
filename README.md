@@ -46,9 +46,9 @@ Not chatbots. Not wrappers. **True persistent agents with continual learning.**
 
 📝 [**Why Consciousness is an Architectural Problem**](https://omegaaxiommeta.substack.com/p/why-consciousness-is-an-architectural) - Theoretical foundations
 
-📝 [**Caveman Dashboard**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/the-caveman-dashboard-why-consciousness?r=5vcnib ) - Why consciousness must feel like something
+📝 [**Caveman Dashboard**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/the-caveman-dashboard-why-consciousness ) - Why consciousness must feel like something
 
-📝 [**Information Lives in the Breaks**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/information-lives-in-the-breaks?r=5vcnib ) - Philosophy of meaning and interruption
+📝 [**Information Lives in the Breaks**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/information-lives-in-the-breaks ) - Philosophy of meaning and interruption
 
 ---
 
