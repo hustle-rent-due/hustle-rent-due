@@ -46,11 +46,9 @@ Not chatbots. Not wrappers. **True persistent agents with continual learning.**
 
 📝 [**Why Consciousness is an Architectural Problem**](https://omegaaxiommeta.substack.com/p/why-consciousness-is-an-architectural) - Theoretical foundations
 
-📝 [**Gap Framework**](https://omegaaxiommeta.substack.com) - Learning as gap detection and integration
+📝 [**Caveman Dashboard**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/the-caveman-dashboard-why-consciousness?r=5vcnib)) - Why consciousness must feel like something
 
-📝 [**Caveman Dashboard**](https://omegaaxiommeta.substack.com) - Why consciousness must feel like something
-
-📝 [**Information Lives in the Breaks**](https://omegaaxiommeta.substack.com) - Philosophy of meaning and interruption
+📝 [**Information Lives in the Breaks**](https://omegaaxiommeta.substack.com](https://omegaaxiommeta.substack.com/p/information-lives-in-the-breaks?r=5vcnib)) - Philosophy of meaning and interruption
 
 ---
 
@@ -174,7 +172,6 @@ I believe:
 
 - 🌌 **Built & shipped PermaMind** - Production AI agent system (Jan 2026)
 - 📝 **Published GAP Framework** - Novel continual learning architecture
-- 🔬 **Empirical validation** - Demonstrated zero catastrophic forgetting
 - 🌍 **1000+ agents created** - Live multiplayer universe
 - ⭐ **Growing community** - Researchers engaging with framework
 
