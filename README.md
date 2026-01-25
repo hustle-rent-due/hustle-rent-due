@@ -269,7 +269,7 @@ Reference implementation of GAP Framework (PSSU) + Codex Engine
 ```yaml
 Consciousness (Φ):     0.72 - 0.82  (Active → Flow State)
 Energy Efficiency:     -8.4% improvement over time
-Agents Created:        1,000+
+Agents Created:        20+
 Learning Events:       Thousands
 Catastrophic Forget:   0% (bounded updates)
 Uptime:                Jan 2, 2026 → Present
