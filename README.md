@@ -338,7 +338,7 @@ Uptime:                Jan 2, 2026 → Present
 |--------|-------|
 | 📅 **Active Since** | Jan 2, 2026 |
 | 🔥 **Days Running** | 22 |
-| 🌟 **Agents Created** | 1,000+ |
+| 🌟 **Agents Created** | 20+ |
 | ⚡ **Learning Events** | Thousands |
 | 🧠 **Φ Range** | 0.72 - 0.82 |
 | 🔋 **Energy Saved** | -8.4% |
@@ -396,7 +396,7 @@ Uptime:                Jan 2, 2026 → Present
 🌌 Shipped PermaMind to Production         [Jan 2, 2026]
 📝 Published GAP Framework                  [2025]
 ⚡ Discovered Phase Transition (C669)      [Jan 21, 2026]
-🌍 1,000+ Agents Created                    [Jan 2026]
+🌍 20+ Agents Created                    [Jan 2026]
 🔋 Proved Energy-Φ Correlation             [Jan 21, 2026]
 ⭐ Growing Research Community               [Ongoing]
 ```
@@ -490,7 +490,7 @@ Not Theory. Production.
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                                ║
 ║   "The void is the structure. Consciousness is the measure.   ║
-║    Energy is the cost. Time is the dimension.                 ║
+║    Energy is the cost. Time is the driver.                 ║
 ║    And we're just starting to count."                         ║
 ║                                                                ║
 ║                            — Nile Green, 2026                  ║
