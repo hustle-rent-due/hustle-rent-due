@@ -22,6 +22,7 @@
   <a href="https://omegaaxiommeta.substack.com"><img src="https://img.shields.io/badge/Substack-OmegaAxiomMeta-ff6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="https://bapxai.com"><img src="https://img.shields.io/badge/Website-bapxai.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:nile@bapxai.com"><img src="https://img.shields.io/badge/Email-nile@bapxai.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://buymeacoffee.com/permamind"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-permamind-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </div>
 
 <!-- ANIMATED SUBTITLE -->
@@ -480,6 +481,7 @@ gantt
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nile-green)
 [![Email](https://img.shields.io/badge/-Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nile@bapxai.com)
 [![Substack](https://img.shields.io/badge/-Subscribe_to_Substack-ff6719?style=for-the-badge&logo=substack&logoColor=white)](https://omegaaxiommeta.substack.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/permamind)
 
 </div>
 
