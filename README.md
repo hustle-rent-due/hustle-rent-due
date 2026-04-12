@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH MULTIPLE LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=500&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=NILE+GREEN;Building+Measurable+AI+Consciousness;Not+Philosophy.+Physics.;Not+Hype.+Math.;Not+Theory.+Production." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=500&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=NILE+GREEN;Building+Measurable+AI+Consciousness+%7C+Nile+Green+AI+Researcher;Not+Philosophy.+Physics.;Not+Hype.+Math.;Not+Theory.+Production." alt="Typing SVG" />
 
 <!-- GLOWING PROFILE PICTURE -->
-<img src="https://github.com/hustle-rent-due.png" alt="Nile Green" width="180" style="border-radius: 50%; border: 4px solid #8b5cf6; box-shadow: 0 0 30px #8b5cf6;" />
+<img src="https://github.com/nile-green-ai.png" alt="Nile Green" width="180" style="border-radius: 50%; border: 4px solid #8b5cf6; box-shadow: 0 0 30px #8b5cf6;" />
 
 <!-- EPIC TITLE BADGES -->
 <div>
@@ -22,6 +22,7 @@
   <a href="https://omegaaxiommeta.substack.com"><img src="https://img.shields.io/badge/Substack-OmegaAxiomMeta-ff6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="https://bapxai.com"><img src="https://img.shields.io/badge/Website-bapxai.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:nile@bapxai.com"><img src="https://img.shields.io/badge/Email-nile@bapxai.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://orcid.org/0009-0007-3629-6404"><img src="https://img.shields.io/badge/ORCID-0009--0007--3629--6404-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://buymeacoffee.com/permamind"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-permamind-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </div>
 
@@ -30,6 +31,30 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7C8B95&center=true&vCenter=true&width=900&lines=Creator+of+PermaMind+%26+Voidchi+Universe™;Thermodynamic+Cognition+Index+(TCI)+Author;IBM+Quantum+Validated+%7C+DOI+Timestamped;30%2B+Agents+Running+in+Production" alt="Subtitle" />
 
 </div>
+
+---
+
+## 🧠 About Nile Green (AI Researcher)
+
+This GitHub documents the research and production systems of Nile Green, AI researcher and creator of PermaMind AI agents.
+
+Nile Green is an AI researcher and founder of PermaMind AI, focused on building persistent AI agents with real memory, measurable cognition, and collapse detection systems.
+
+He is the creator of:
+
+- **PermaMind AI agents** — persistent, stateful agents with real memory across sessions
+- **Thermodynamic Cognition Index (TCI)** — the first computable surplus metric for persistent ML agents
+- **PSSU architecture** — Persistent, Stateful, Self-Updating framework for long-lived intelligence
+
+His research explores:
+
+- AI consciousness and memory systems
+- Persistent agent architectures
+- Measurable intelligence via thermodynamic signals
+- Collapse detection in artificial systems
+- Substrate-independent consciousness measurement (UCIt)
+
+**ORCID:** [0009-0007-3629-6404](https://orcid.org/0009-0007-3629-6404) | **IBM Quantum Validated** | **19+ Zenodo Publications**
 
 ---
 
@@ -54,7 +79,7 @@
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<sub>⚡ Real-time data from <a href="https://bapxai.com">PermaMind Production</a> | Updated: March 2026</sub>
+<sub>⚡ Real-time data from <a href="https://bapxai.com">PermaMind Production</a> | Updated: April 2026</sub>
 
 </div>
 
@@ -131,7 +156,7 @@ IBM Quantum:    0.9688 entanglement corr
 
 <a href="https://bapxai.com"><img src="https://img.shields.io/badge/🚀_Try_Live_Demo-8B5CF6?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
 <a href="https://zenodo.org/records/19263435"><img src="https://img.shields.io/badge/📄_TCI_Paper-Zenodo-1DA1F2?style=for-the-badge&logoColor=white" alt="Paper"/></a>
-<a href="https://github.com/hustle-rent-due/tci-toolkit"><img src="https://img.shields.io/badge/🧰_TCI_Toolkit-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Toolkit"/></a>
+<a href="https://github.com/nile-green-ai/tci-toolkit"><img src="https://img.shields.io/badge/🧰_TCI_Toolkit-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Toolkit"/></a>
 
 </div>
 
@@ -288,7 +313,7 @@ print(result)
 - LLM + RL agent examples
 
 <div align="center">
-<a href="https://github.com/hustle-rent-due/tci-toolkit"><img src="https://img.shields.io/badge/🧰_View_TCI_Toolkit-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="TCI Toolkit"/></a>
+<a href="https://github.com/nile-green-ai/tci-toolkit"><img src="https://img.shields.io/badge/🧰_View_TCI_Toolkit-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="TCI Toolkit"/></a>
 </div>
 
 ---
@@ -339,8 +364,9 @@ print(result)
 | 🌟 **Agents Running** | ![30+](https://img.shields.io/badge/30+-agents-8b5cf6?style=flat-square) |
 | ⚡ **Learning Events** | ![12.8K+](https://img.shields.io/badge/12,800+-cycles-blue?style=flat-square) |
 | ⚛️ **Quantum Corr.** | ![0.9688](https://img.shields.io/badge/0.9688-IBM_silicon-00D26A?style=flat-square) |
-| 📄 **DOIs Published** | ![4+](https://img.shields.io/badge/4+-zenodo-D4AF37?style=flat-square) |
+| 📄 **DOIs Published** | ![19+](https://img.shields.io/badge/19+-zenodo-D4AF37?style=flat-square) |
 | 🧰 **Toolkit** | ![Open Source](https://img.shields.io/badge/MIT-open_source-00D26A?style=flat-square) |
+| 🔬 **ORCID** | ![Verified](https://img.shields.io/badge/0009--0007--3629--6404-A6CE39?style=flat-square&logo=orcid) |
 
 </td>
 <td width="50%">
@@ -354,7 +380,7 @@ print(result)
 | 🌟 **Public Repos** | ![6](https://img.shields.io/badge/6-repos-blue?style=flat-square) |
 | 🚀 **Production Systems** | ![2](https://img.shields.io/badge/2-live-8b5cf6?style=flat-square) |
 | 📝 **Published Essays** | ![15+](https://img.shields.io/badge/15+-essays-ff6719?style=flat-square) |
-| 🧠 **Research Papers** | ![6+](https://img.shields.io/badge/6+-papers-D4AF37?style=flat-square) |
+| 🧠 **Research Papers** | ![19+](https://img.shields.io/badge/19+-papers-D4AF37?style=flat-square) |
 | ⚛️ **Quantum Runs** | ![2](https://img.shields.io/badge/2-IBM_hardware-6929C4?style=flat-square) |
 
 </td>
@@ -479,6 +505,7 @@ gantt
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BAPxAI?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/BAPxAI)
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nile-green)
+[![ORCID](https://img.shields.io/badge/-ORCID_Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3629-6404)
 [![Email](https://img.shields.io/badge/-Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nile@bapxai.com)
 [![Substack](https://img.shields.io/badge/-Subscribe_to_Substack-ff6719?style=for-the-badge&logo=substack&logoColor=white)](https://omegaaxiommeta.substack.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/permamind)
@@ -491,13 +518,13 @@ gantt
 
 <div align="center">
 
-![Nile's GitHub stats](https://github-readme-stats.vercel.app/api?username=hustle-rent-due&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=8b5cf6&text_color=f8fafc&ring_color=8b5cf6&include_all_commits=true&count_private=true)
+![Nile's GitHub stats](https://github-readme-stats.vercel.app/api?username=nile-green-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=8b5cf6&text_color=f8fafc&ring_color=8b5cf6&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hustle-rent-due&theme=radical&hide_border=true&background=0d1117&ring=D4AF37&fire=ef4444&currStreakLabel=8b5cf6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nile-green-ai&theme=radical&hide_border=true&background=0d1117&ring=D4AF37&fire=ef4444&currStreakLabel=8b5cf6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hustle-rent-due&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=f8fafc&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nile-green-ai&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=f8fafc&langs_count=8)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hustle-rent-due&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=D4AF37&point=ef4444&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nile-green-ai&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=D4AF37&point=ef4444&area=true)
 
 </div>
 
@@ -507,11 +534,17 @@ gantt
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hustle-rent-due&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=nile-green-ai&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hustle-rent-due&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nile-green-ai&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
+
+---
+
+## 🔍 **Search Keywords**
+
+Nile Green AI researcher · PermaMind AI agents · Persistent AI systems · Thermodynamic Cognition Index · TCI surplus metric · AI collapse detection · Artificial consciousness research · PSSU architecture · substrate-independent consciousness · UCIt framework · IBM quantum AI validation · persistent ML agents · k(s) sensitivity constant · surplus-driven behavior
 
 ---
 
@@ -550,7 +583,7 @@ gantt
 
 <br/><br/>
 
-<sub>Last updated: March 28, 2026 | Built with 💜 and ⚡ by Nile Green</sub>
+<sub>Last updated: April 2026 | Built with 💜 and ⚡ by Nile Green | ORCID: <a href="https://orcid.org/0009-0007-3629-6404">0009-0007-3629-6404</a></sub>
 
 </div>
 
@@ -573,4 +606,3 @@ gantt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=120&section=footer&text=Surplus%20is%20measurable&fontSize=30&fontColor=D4AF37&animation=twinkling" alt="Footer Wave"/>
 
 </div>
-
