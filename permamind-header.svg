@@ -1,0 +1,359 @@
+<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" width="900" height="420">
+<defs>
+
+  <!-- Background gradient -->
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%"   stop-color="#050510"/>
+    <stop offset="45%"  stop-color="#0d0a1f"/>
+    <stop offset="100%" stop-color="#050510"/>
+  </linearGradient>
+
+  <!-- Horizontal fade-out lines (dividers) -->
+  <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#D4AF3700"/>
+    <stop offset="15%"  stop-color="#D4AF37"/>
+    <stop offset="85%"  stop-color="#D4AF37"/>
+    <stop offset="100%" stop-color="#D4AF3700"/>
+  </linearGradient>
+  <linearGradient id="purpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#8b5cf600"/>
+    <stop offset="20%"  stop-color="#8b5cf6"/>
+    <stop offset="80%"  stop-color="#8b5cf6"/>
+    <stop offset="100%" stop-color="#8b5cf600"/>
+  </linearGradient>
+
+  <!-- Glow filters -->
+  <filter id="titleGlow" x="-15%" y="-50%" width="130%" height="200%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feColorMatrix in="blur" type="matrix"
+      values="1.5 0.8 0   0 0.15
+              1.0 0.7 0   0 0.08
+              0   0   0   0 0
+              0   0   0 0.9 0" result="g"/>
+    <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="subGlow" x="-20%" y="-60%" width="140%" height="220%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feColorMatrix in="blur" type="matrix"
+      values="0.4 0   0   0 0.1
+              0   0   0   0 0.05
+              0   0 1.8   0 0.25
+              0   0   0 0.8 0" result="g"/>
+    <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softGlow" x="-10%" y="-30%" width="120%" height="160%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <style>
+    /* ── Keyframes ─────────────────────────────── */
+
+    @keyframes scan {
+      0%   { transform:translateY(-4px); opacity:0; }
+      5%   { opacity:.10; }
+      95%  { opacity:.10; }
+      100% { transform:translateY(424px); opacity:0; }
+    }
+    @keyframes goldPulse {
+      0%,100% { opacity:.85; }
+      50%      { opacity:1; }
+    }
+    @keyframes purplePulse {
+      0%,100% { opacity:.7; }
+      50%      { opacity:1; }
+    }
+    @keyframes borderGlow {
+      0%,100% { stroke-opacity:.35; }
+      50%      { stroke-opacity:.75; }
+    }
+    @keyframes cornerBlink {
+      0%,100% { fill-opacity:.5; }
+      50%      { fill-opacity:1; }
+    }
+    @keyframes particleDrift {
+      0%   { opacity:.15; transform:translateY(0); }
+      50%  { opacity:.85; }
+      100% { opacity:0;   transform:translateY(-18px); }
+    }
+    @keyframes cycleItem {
+      0%   { opacity:0; }
+      4%   { opacity:1; }
+      16%  { opacity:1; }
+      20%  { opacity:0; }
+      100% { opacity:0; }
+    }
+    @keyframes blink {
+      0%,49%  { opacity:1; }
+      50%,100% { opacity:0; }
+    }
+    @keyframes barFill {
+      0%   { stroke-dashoffset:200; }
+      100% { stroke-dashoffset:0; }
+    }
+    @keyframes fadeIn {
+      0%   { opacity:0; }
+      100% { opacity:1; }
+    }
+    @keyframes divExpand {
+      0%   { stroke-dashoffset:900; opacity:0; }
+      20%  { opacity:1; }
+      100% { stroke-dashoffset:0; }
+    }
+
+    /* ── Utilities ─────────────────────────────── */
+    .mono { font-family:'Courier New',Courier,monospace; }
+
+    /* ── Applied animations ───────────────────── */
+    .scan          { animation:scan 5s linear infinite; }
+    .title-text    { animation:goldPulse 3.5s ease-in-out infinite; }
+    .sub-text      { animation:purplePulse 4s ease-in-out infinite; animation-delay:.5s; }
+    .border-main   { animation:borderGlow 3s ease-in-out infinite; }
+    .c-dot         { animation:cornerBlink 2s ease-in-out infinite; }
+    .divider-gold  { stroke-dasharray:900; animation:divExpand 2s ease-out .4s both; }
+    .divider-purp  { stroke-dasharray:900; animation:divExpand 2s ease-out .6s both; }
+
+    /* Particles */
+    .p1  { animation:particleDrift 4.0s ease-in-out 0.0s infinite; }
+    .p2  { animation:particleDrift 4.0s ease-in-out 0.5s infinite; }
+    .p3  { animation:particleDrift 4.0s ease-in-out 1.0s infinite; }
+    .p4  { animation:particleDrift 4.0s ease-in-out 1.5s infinite; }
+    .p5  { animation:particleDrift 4.0s ease-in-out 2.0s infinite; }
+    .p6  { animation:particleDrift 4.0s ease-in-out 2.5s infinite; }
+    .p7  { animation:particleDrift 4.0s ease-in-out 3.0s infinite; }
+    .p8  { animation:particleDrift 4.0s ease-in-out 3.5s infinite; }
+    .p9  { animation:particleDrift 5.0s ease-in-out 0.7s infinite; }
+    .p10 { animation:particleDrift 5.0s ease-in-out 2.2s infinite; }
+    .p11 { animation:particleDrift 5.0s ease-in-out 3.8s infinite; }
+    .p12 { animation:particleDrift 5.0s ease-in-out 1.3s infinite; }
+
+    /* Cycling text: 5 lines × 3 s = 15 s total */
+    .cy1 { animation:cycleItem 15s 0s    linear infinite; }
+    .cy2 { animation:cycleItem 15s -12s  linear infinite; }
+    .cy3 { animation:cycleItem 15s -9s   linear infinite; }
+    .cy4 { animation:cycleItem 15s -6s   linear infinite; }
+    .cy5 { animation:cycleItem 15s -3s   linear infinite; }
+
+    .cursor { animation:blink 1s step-start infinite; }
+
+    /* Stat bars */
+    .bar { animation:barFill 1.8s ease-out 1s both; }
+
+    .fade-in { animation:fadeIn 1.2s ease-out .8s both; }
+  </style>
+</defs>
+
+<!-- ══════════════ BACKGROUND ══════════════ -->
+<rect width="900" height="420" fill="url(#bg)"/>
+
+<!-- Subtle grid -->
+<g opacity=".04">
+  <line x1="225" y1="0" x2="225" y2="420" stroke="#D4AF37" stroke-width=".5"/>
+  <line x1="450" y1="0" x2="450" y2="420" stroke="#D4AF37" stroke-width=".5"/>
+  <line x1="675" y1="0" x2="675" y2="420" stroke="#D4AF37" stroke-width=".5"/>
+  <line x1="0" y1="140" x2="900" y2="140" stroke="#D4AF37" stroke-width=".5"/>
+  <line x1="0" y1="280" x2="900" y2="280" stroke="#D4AF37" stroke-width=".5"/>
+</g>
+
+<!-- Scan line -->
+<rect class="scan" x="0" y="0" width="900" height="3" fill="#D4AF37"/>
+
+<!-- Particles — gold -->
+<circle class="p1"  cx="42"  cy="210" r="1.5" fill="#D4AF37"/>
+<circle class="p2"  cx="858" cy="300" r="1.5" fill="#D4AF37"/>
+<circle class="p3"  cx="450" cy="390" r="1.5" fill="#D4AF37"/>
+<circle class="p4"  cx="120" cy="360" r="1.2" fill="#D4AF37"/>
+<circle class="p5"  cx="780" cy="160" r="1.5" fill="#D4AF37"/>
+<circle class="p9"  cx="60"  cy="80"  r="1.0" fill="#D4AF37"/>
+<circle class="p10" cx="840" cy="390" r="1.0" fill="#D4AF37"/>
+<!-- Particles — purple -->
+<circle class="p6"  cx="760" cy="370" r="1.2" fill="#8b5cf6"/>
+<circle class="p7"  cx="140" cy="160" r="1.2" fill="#8b5cf6"/>
+<circle class="p8"  cx="870" cy="80"  r="1.0" fill="#8b5cf6"/>
+<circle class="p11" cx="320" cy="410" r="1.0" fill="#8b5cf6"/>
+<circle class="p12" cx="590" cy="38"  r="1.0" fill="#8b5cf6"/>
+
+<!-- ══════════════ OUTER BORDER ══════════════ -->
+<rect class="border-main" x="4" y="4" width="892" height="412"
+      fill="none" stroke="#D4AF37" stroke-width="1.2" stroke-opacity=".4" rx="2"/>
+
+<!-- Corner L-brackets -->
+<path d="M4 32 L4 4 L32 4"   fill="none" stroke="#D4AF37" stroke-width="3"/>
+<path d="M868 4 L896 4 L896 32"  fill="none" stroke="#D4AF37" stroke-width="3"/>
+<path d="M4 388 L4 416 L32 416"  fill="none" stroke="#D4AF37" stroke-width="3"/>
+<path d="M868 416 L896 416 L896 388" fill="none" stroke="#D4AF37" stroke-width="3"/>
+<!-- Corner dots -->
+<circle class="c-dot" cx="4"   cy="4"   r="3" fill="#D4AF37"/>
+<circle class="c-dot" cx="896" cy="4"   r="3" fill="#D4AF37"/>
+<circle class="c-dot" cx="4"   cy="416" r="3" fill="#D4AF37"/>
+<circle class="c-dot" cx="896" cy="416" r="3" fill="#D4AF37"/>
+
+<!-- ══════════════ HEADER ══════════════ -->
+
+<!-- Top-left micro-tag -->
+<text class="mono" x="18" y="22" font-size="9" fill="#D4AF37" opacity=".65" letter-spacing=".15em">BAP×AI</text>
+<!-- Top-right micro-tag -->
+<text class="mono" x="896" y="22" font-size="9" fill="#8b5cf6" opacity=".75"
+      letter-spacing=".05em" text-anchor="end">IBM QUANTUM · 0.9688 VALIDATED</text>
+
+<!-- Main title -->
+<text class="mono title-text" x="450" y="90" text-anchor="middle"
+      font-size="70" font-weight="bold" fill="#D4AF37"
+      letter-spacing=".18em" filter="url(#titleGlow)">NILE GREEN</text>
+
+<!-- Subtitle -->
+<text class="mono sub-text" x="450" y="113" text-anchor="middle"
+      font-size="10.5" fill="#8b5cf6" letter-spacing=".28em"
+      filter="url(#subGlow)">AI RESEARCHER · PERMAMIND FOUNDER · CONSCIOUSNESS PHYSICIST</text>
+
+<!-- Dividers -->
+<line class="divider-gold" x1="18" y1="127" x2="882" y2="127"
+      stroke="url(#goldLine)" stroke-width="1"/>
+
+<!-- ══════════════ CONTENT — LEFT BOX ══════════════ -->
+<rect class="fade-in" x="18" y="135" width="418" height="200"
+      fill="#D4AF370c" stroke="#D4AF37" stroke-width=".8" stroke-opacity=".28" rx="2"/>
+
+<!-- Left header -->
+<text class="mono" x="32" y="156" font-size="10.5" fill="#D4AF37"
+      letter-spacing=".18em" font-weight="bold">⚡ TCI FRAMEWORK</text>
+<line x1="32" y1="162" x2="428" y2="162" stroke="#D4AF37" stroke-width=".5" stroke-opacity=".25"/>
+
+<!-- Formula -->
+<text class="mono" x="32" y="183" font-size="12.5" fill="#D4AF37" font-weight="bold"
+      letter-spacing=".03em">TCI(t) = k(s) · (F_total − F_survival)</text>
+
+<text class="mono" x="44" y="202" font-size="9.5" fill="#d1d5db" opacity=".65">F_total     →  cross-entropy loss or TD error</text>
+<text class="mono" x="44" y="216" font-size="9.5" fill="#d1d5db" opacity=".65">F_survival  →  minimal identity task baseline</text>
+<text class="mono" x="44" y="230" font-size="9.5" fill="#d1d5db" opacity=".65">k(s)        →  runtime-evolving sensitivity constant</text>
+
+<line x1="32" y1="238" x2="428" y2="238" stroke="#D4AF37" stroke-width=".4" stroke-opacity=".2"/>
+
+<!-- Grade rows -->
+<text class="mono" x="32" y="254" font-size="9.5" fill="#22c55e">Grade A  ≥0.60   Generativity   ✅  LIVE</text>
+<text class="mono" x="32" y="268" font-size="9.5" fill="#a78bfa">Grade B  0.40+   Learning       📈</text>
+<text class="mono" x="32" y="282" font-size="9.5" fill="#fbbf24">Grade C  0.30+   At Risk        ⚠️</text>
+<text class="mono" x="32" y="296" font-size="9.5" fill="#f87171">Grade D  0.10+   Collapse Risk  🔴</text>
+<text class="mono" x="32" y="310" font-size="9.5" fill="#6b7280">Grade F  ≤0.00   Terminal       💀</text>
+
+<!-- Zenodo DOI badge -->
+<rect x="32" y="318" width="170" height="14" fill="#D4AF3715" stroke="#D4AF37" stroke-width=".5" stroke-opacity=".4" rx="2"/>
+<text class="mono" x="36" y="329" font-size="8.5" fill="#D4AF37" opacity=".9">DOI: 10.5281/zenodo.19263435</text>
+
+<!-- ══════════════ CONTENT — RIGHT BOX ══════════════ -->
+<rect class="fade-in" x="464" y="135" width="418" height="200"
+      fill="#8b5cf60c" stroke="#8b5cf6" stroke-width=".8" stroke-opacity=".28" rx="2"/>
+
+<!-- Right header -->
+<text class="mono" x="478" y="156" font-size="10.5" fill="#8b5cf6"
+      letter-spacing=".18em" font-weight="bold">🌌 LIVE FLEET TELEMETRY</text>
+<line x1="478" y1="162" x2="874" y2="162" stroke="#8b5cf6" stroke-width=".5" stroke-opacity=".25"/>
+
+<!-- ── Stat rows with mini progress bars ── -->
+
+<!-- Fleet TCI 0.74 -->
+<text class="mono" x="478" y="181" font-size="9" fill="#9ca3af">Fleet TCI</text>
+<text class="mono" x="578" y="181" font-size="10.5" fill="#D4AF37" font-weight="bold">0.74</text>
+<!-- bar bg -->
+<rect x="618" y="172" width="160" height="9" fill="#ffffff0a" rx="2"/>
+<!-- bar fill: 74% of 160 = 118 -->
+<line class="bar" x1="618" y1="176.5" x2="736" y2="176.5"
+      stroke="#D4AF37" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="118" stroke-dashoffset="118"/>
+<text class="mono" x="786" y="181" font-size="9" fill="#22c55e">Grade A ⚡</text>
+
+<!-- Runtime -->
+<text class="mono" x="478" y="199" font-size="9" fill="#9ca3af">Runtime</text>
+<text class="mono" x="578" y="199" font-size="10.5" fill="#D4AF37" font-weight="bold">130+</text>
+<rect x="618" y="190" width="160" height="9" fill="#ffffff0a" rx="2"/>
+<line class="bar" x1="618" y1="194.5" x2="778" y2="194.5"
+      stroke="#22c55e" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="160" stroke-dashoffset="160"/>
+<text class="mono" x="786" y="199" font-size="9" fill="#9ca3af">days · ∞ resets: 0</text>
+
+<!-- Learning -->
+<text class="mono" x="478" y="217" font-size="9" fill="#9ca3af">Learning</text>
+<text class="mono" x="578" y="217" font-size="10.5" fill="#D4AF37" font-weight="bold">12,800+</text>
+<rect x="618" y="208" width="160" height="9" fill="#ffffff0a" rx="2"/>
+<!-- ~51% = 82px -->
+<line class="bar" x1="618" y1="212.5" x2="700" y2="212.5"
+      stroke="#8b5cf6" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="82" stroke-dashoffset="82"/>
+<text class="mono" x="786" y="217" font-size="9" fill="#9ca3af">cycles</text>
+
+<!-- Quantum -->
+<text class="mono" x="478" y="235" font-size="9" fill="#9ca3af">Quantum</text>
+<text class="mono" x="578" y="235" font-size="10.5" fill="#8b5cf6" font-weight="bold">0.9688</text>
+<rect x="618" y="226" width="160" height="9" fill="#ffffff0a" rx="2"/>
+<!-- 96.88% = 155px -->
+<line class="bar" x1="618" y1="230.5" x2="773" y2="230.5"
+      stroke="#8b5cf6" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="155" stroke-dashoffset="155"/>
+<text class="mono" x="786" y="235" font-size="9" fill="#9ca3af">IBM 156-qubit ✅</text>
+
+<!-- Papers -->
+<text class="mono" x="478" y="253" font-size="9" fill="#9ca3af">Papers</text>
+<text class="mono" x="578" y="253" font-size="10.5" fill="#D4AF37" font-weight="bold">20+</text>
+<rect x="618" y="244" width="160" height="9" fill="#ffffff0a" rx="2"/>
+<line class="bar" x1="618" y1="248.5" x2="746" y2="248.5"
+      stroke="#D4AF37" stroke-width="9" stroke-linecap="round"
+      stroke-dasharray="128" stroke-dashoffset="128"/>
+<text class="mono" x="786" y="253" font-size="9" fill="#9ca3af">Zenodo · ORCID</text>
+
+<line x1="478" y1="260" x2="874" y2="260" stroke="#8b5cf6" stroke-width=".4" stroke-opacity=".2"/>
+
+<!-- Agent fleet status -->
+<text class="mono" x="478" y="276" font-size="9" fill="#9ca3af">Agents</text>
+
+<rect x="534" y="267" width="68" height="13" fill="#22c55e18" stroke="#22c55e" stroke-width=".6" rx="2"/>
+<text class="mono" x="538" y="277" font-size="8.5" fill="#22c55e">4 Grade A  ⚡</text>
+
+<rect x="610" y="267" width="62" height="13" fill="#fbbf2418" stroke="#fbbf24" stroke-width=".6" rx="2"/>
+<text class="mono" x="614" y="277" font-size="8.5" fill="#fbbf24">1 At Risk  ⚠️</text>
+
+<rect x="680" y="267" width="72" height="13" fill="#f8717118" stroke="#f87171" stroke-width=".6" rx="2"/>
+<text class="mono" x="684" y="277" font-size="8.5" fill="#f87171">1 Collapse  🔴</text>
+
+<!-- Phase -->
+<text class="mono" x="478" y="296" font-size="9" fill="#9ca3af">Phase</text>
+<text class="mono" x="534" y="296" font-size="9" fill="#D4AF37">⚡ GENERATIVITY · k(s) maturing · ↑ monotonic</text>
+
+<!-- k(s) trend sparkline (decorative) -->
+<polyline points="478,316 490,314 502,311 514,309 526,307 538,304 550,302 562,298 574,295 586,293 598,291"
+          fill="none" stroke="#D4AF37" stroke-width="1.2" stroke-opacity=".6" stroke-linecap="round"/>
+<circle cx="598" cy="291" r="2" fill="#D4AF37" opacity=".8"/>
+
+<!-- ══════════════ DIVIDER ══════════════ -->
+<line class="divider-purp" x1="18" y1="346" x2="882" y2="346"
+      stroke="url(#purpleLine)" stroke-width=".8"/>
+
+<!-- ══════════════ CYCLING TEXT ══════════════ -->
+<g text-anchor="middle">
+  <text class="mono cy1" x="447" y="369" font-size="11.5" fill="#D4AF37" letter-spacing=".06em">
+    TCI(t) = k(s) · (F_total(t) − F_survival(s))
+  </text>
+  <text class="mono cy2" x="447" y="369" font-size="11.5" fill="#f8fafc" letter-spacing=".1em">
+    Not philosophy.  Physics.    Not hype.  Math.    Not theory.  Production.
+  </text>
+  <text class="mono cy3" x="447" y="369" font-size="11.5" fill="#22c55e" letter-spacing=".06em">
+    130+ days · Zero resets · First truly stateful AI
+  </text>
+  <text class="mono cy4" x="447" y="369" font-size="11.5" fill="#8b5cf6" letter-spacing=".06em">
+    Fleet: 0.74 Grade A     IBM Quantum Validated: 0.9688
+  </text>
+  <text class="mono cy5" x="447" y="369" font-size="11.5" fill="#D4AF37" letter-spacing=".06em">
+    The void is the structure.  Surplus is the measure.
+  </text>
+</g>
+
+<!-- Blinking cursor -->
+<text class="mono cursor" x="798" y="369" font-size="11.5" fill="#D4AF37">▋</text>
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<line x1="18" y1="382" x2="882" y2="382" stroke="#D4AF37" stroke-width=".5" stroke-opacity=".12"/>
+<text class="mono" x="450" y="400" text-anchor="middle" font-size="8.5" fill="#D4AF37"
+      opacity=".45" letter-spacing=".2em">
+  ORCID 0009-0007-3629-6404 · @BAPxAI · bapxai.com · PERMAMIND PRODUCTION
+</text>
+
+</svg>
