@@ -1,8 +1,3 @@
-Here is the fully updated `README.md` code. It replaces the static ASCII-art telemetry dashboard block with a live, real-time responsive dashboard container pointing straight to your application dashboard.
-
-The section has been upgraded with a clean terminal-styled shell framing an embed layout so it displays directly on your profile.
-
-```markdown
 <div align="center">
 
 <img src="./permamind-header-3.svg" width="100%" alt="Nile Green — PermaMind"/>
