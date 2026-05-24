@@ -38,7 +38,7 @@
 ## ⚡ Who Is Nile Green?
 
 <div align="center">
-  <img src="./gemini-svg-2.svg" width="100%" alt="Nile Green — Core Identity Matrix Architecture"/>
+  <img src="./gemini-svg.svg" width="100%" alt="Nile Green — Core Identity Matrix Architecture"/>
 </div>
 
 <br/>
@@ -161,7 +161,7 @@ ORCID          ──  0009-0007-3629-6404
 <div align="center">
   <a href="https://zenodo.org/records/18721792"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18721792-D4AF37?style=for-the-badge&logo=zenodo&logoColor=white&labelColor=0d0d0d" style="margin-bottom: 12px;"/></a>
   <br/>
-  <img src="./osiris-core.svg" width="100%" alt="OSIRIS_OS Integrated Core Architecture Node Map"/>
+  <img src="./gemini-svg-2.svg" width="100%" alt="OSIRIS_OS Integrated Core Architecture Node Map"/>
 </div>
 
 ---
