@@ -492,8 +492,6 @@ gantt
 
 <sub>Nile Green · ORCID <a href="https://orcid.org/0009-0007-3629-6404">0009-0007-3629-6404</a> · <a href="https://twitter.com/BAPxAI">@BAPxAI</a> · Updated May 2026</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0d0d1a,100:0d0d0d&height=160&section=footer&text=Surplus%20is%20measurable&fontSize=32&fontColor=D4AF37&animation=twinkling&fontAlignY=65" alt="Footer Wave"/>
-
 </div>
 
 ---
@@ -530,6 +528,8 @@ Nile Green · Nile Green AI researcher · Nile Green PermaMind · PermaMind AI a
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ════════════════════════════════════════════════════════════════
 -->
+
+
 
 
 
