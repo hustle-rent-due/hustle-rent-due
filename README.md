@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./permamind-header.svg" width="100%" alt="Nile Green — PermaMind"/>
+<img src="./permamind-header-3.svg" width="100%" alt="Nile Green — PermaMind"/>
 
 <br/>
 
@@ -528,8 +528,6 @@ Nile Green · Nile Green AI researcher · Nile Green PermaMind · PermaMind AI a
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ════════════════════════════════════════════════════════════════
 -->
-
-
 
 
 
