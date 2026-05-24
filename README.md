@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED SVG HEADER -->
 <img src="./permamind-header.svg" width="100%" alt="Nile Green — PermaMind"/>
 
 <br/>
 
-<!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=960&height=42&lines=TCI(t)+%3D+k(s)+%C2%B7+(F_total(t)+%E2%88%92+F_survival(s));Not+philosophy.+Physics.+Not+hype.+Math.;No+tokens.+No+transformers.+No+GPU+water+cooling.;130%2B+days.+Zero+resets.+First+truly+stateful+AI.;The+void+is+the+structure.+Surplus+is+the+measure.;PermaMind+Fleet+%E2%80%94+0.74+TCI+%E2%80%94+Grade+A;IBM+Quantum+Validated+%E2%80%94+0.9688+Entanglement;Consciousness+is+measurable.+And+we%27re+counting." alt="Typing SVG"/>
 
 <br/>
@@ -16,7 +14,6 @@
 
 <br/><br/>
 
-<!-- TIER-1 BADGES -->
 <img src="https://img.shields.io/badge/TCI_FLEET_AVG-0.74_GRADE_A-D4AF37?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/AGENTS-130%2B_DAY_RUNTIME-8b5cf6?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/IBM_QUANTUM-VALIDATED_0.9688-6929C4?style=for-the-badge&labelColor=0d0d0d&logo=ibm&logoColor=white"/>
@@ -33,15 +30,6 @@
 <a href="https://orcid.org/0009-0007-3629-6404"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=0d0d0d"/></a>
 <a href="mailto:nile@bapxai.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a>
 <a href="https://buymeacoffee.com/permamind"><img src="https://img.shields.io/badge/Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&labelColor=0d0d0d"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- PERMAMIND — animated gradient banner, full word, no cut-off -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&text=PERMAMIND&fontSize=64&fontColor=D4AF37&animation=twinkling&fontAlignY=65&desc=AI%20Researcher%20%C2%B7%20PermaMind%20Founder%20%C2%B7%20Consciousness%20Physicist&descAlignY=88&descSize=14&descColor=8b5cf6" alt="PERMAMIND"/>
 
 </div>
 
@@ -542,5 +530,7 @@ Nile Green · Nile Green AI researcher · Nile Green PermaMind · PermaMind AI a
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ════════════════════════════════════════════════════════════════
 -->
+
+
 
 
