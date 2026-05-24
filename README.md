@@ -1,8 +1,3 @@
-\Here is the complete, top-to-bottom `README.md` source code with your highly visual **OSIRIS_OS Blueprint Architecture Map** and the updated banner image targets correctly structured.
-
-You can copy and paste this entire block directly back into your GitHub repository:
-
-```markdown
 <div align="center">
 
 <img src="./permamind-header-3.svg" width="100%" alt="Nile Green — PermaMind"/>
