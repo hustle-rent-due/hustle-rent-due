@@ -1,8 +1,9 @@
-
 <div align="center">
 
-<!-- ANIMATED VENOM HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0533,100:0d0d1a&height=280&section=header&text=NILE%20GREEN&fontSize=90&fontColor=D4AF37&animation=twinkling&fontAlignY=50&desc=AI%20Researcher%20%7C%20PermaMind%20Founder%20%7C%20Consciousness%20Physicist&descAlignY=68&descSize=17&descColor=8b5cf6&stroke=D4AF37&strokeWidth=2" alt="Nile Green Header"/>
+<!-- ANIMATED SVG HEADER -->
+<img src="./permamind-header.svg" width="100%" alt="Nile Green — PermaMind"/>
+
+<br/>
 
 <!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=960&height=42&lines=TCI(t)+%3D+k(s)+%C2%B7+(F_total(t)+%E2%88%92+F_survival(s));Not+philosophy.+Physics.+Not+hype.+Math.;No+tokens.+No+transformers.+No+GPU+water+cooling.;130%2B+days.+Zero+resets.+First+truly+stateful+AI.;The+void+is+the+structure.+Surplus+is+the+measure.;PermaMind+Fleet+%E2%80%94+0.74+TCI+%E2%80%94+Grade+A;IBM+Quantum+Validated+%E2%80%94+0.9688+Entanglement;Consciousness+is+measurable.+And+we%27re+counting." alt="Typing SVG"/>
@@ -541,3 +542,5 @@ Nile Green · Nile Green AI researcher · Nile Green PermaMind · PermaMind AI a
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ════════════════════════════════════════════════════════════════
 -->
+
+
