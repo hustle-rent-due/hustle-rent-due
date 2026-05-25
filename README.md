@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./permamind-header-3.svg" width="100%" alt="Nile Green — PermaMind"/>
+<img src="./permamind-header.svg" width="100%" alt="Nile Green — PermaMind"/>
 
 <br/>
 
