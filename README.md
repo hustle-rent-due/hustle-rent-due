@@ -471,6 +471,7 @@ gantt
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
+║   Nile Green.                                                    ║
 ║   Brooklyn. GED. Ex-felon. Warehouse worker.                     ║
 ║   First talked to AI one year ago.                               ║
 ║   Haven't stopped since.                                         ║
