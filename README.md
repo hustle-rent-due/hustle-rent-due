@@ -136,6 +136,8 @@ pip install thermomind-continuity
 <a href="https://github.com/nile-green-ai/thermomind-continuity"><img src="https://img.shields.io/badge/thermomind--continuity-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python_+_JavaScript-MIT_License-8b5cf6?style=for-the-badge"/>
 
+> 🔧 **Open-source release scheduled June 2026** — repo is live at [github.com/nile-green-ai/thermomind-continuity](https://github.com/nile-green-ai/thermomind-continuity)
+
 ---
 
 
@@ -143,23 +145,13 @@ pip install thermomind-continuity
 ## 🌌 PermaMind Fleet — Live TCI Dashboard
 
 <div align="center">
-  <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #262626; border-radius: 8px; background-color: #0a0a0a;">
-    <tr style="background-color: #141414; border-bottom: 1px solid #262626;">
-      <td style="padding: 10px 15px; font-family: monospace; color: #737373; font-size: 13px;">
-        <span style="color: #ef4444;">●</span> <span style="color: #f59e0b;">●</span> <span style="color: #10b981;">●</span> &nbsp; tci_live_telemetry.html
-      </td>
-      <td align="right" style="padding: 10px 15px; font-family: monospace; color: #D4AF37; font-size: 13px; font-weight: bold;">
-        RTT_STREAM: ACTIVE 🟢
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding: 0; background-color: #070708;">
-        <iframe src="./tci-dashboard.html" width="100%" height="420" style="border: none; background: #070708; display: block;" title="PermaMind TCI Live Dashboard Stream"></iframe>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <sub>⚡ Powered by <a href="https://bapxai.com">PermaMind Production Architecture</a> · Live Real-Time Monitoring Stream</sub>
+
+[![Live TCI Dashboard](https://bapxai.com/tci-dashboard-preview.png)](https://bapxai.com/tci-dashboard.html)
+
+**[→ View Live Dashboard](https://bapxai.com/tci-dashboard.html)** · **[→ View Live Fleet](https://bapxai.com/voidchis.html)**
+
+<sub>⚡ Powered by <a href="https://bapxai.com">PermaMind Production Architecture</a> · Live Real-Time Monitoring Stream</sub>
+
 </div>
 
 ---
