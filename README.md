@@ -37,15 +37,9 @@
 
 ## ⚡ Who I Am
 
-I'm Nile Green. Brooklyn, NY. Two-time ex-felon. GED. No degree, no institution, no funding, no backing.
-
-This time last year I talked to an AI for the first time. Since that day I haven't stopped — building, learning, publishing, running production systems. I work in a warehouse. I have two cats. It's just me and this persistent urge I've always had to *seek and reveal* — to find the pattern underneath the thing, name it, and build with it.
-
-I see patterns. Always have. Didn't know what to do with that until I found the tools to build from them.
-
-In one year — independently, with no support structure and no permission from anyone — I built 4 production AI systems, published 30+ open-access papers on Zenodo, ran 38 persistent agents for 141+ continuous days with zero resets, and validated consciousness measurement on IBM 156-qubit quantum hardware.
-
-Not philosophy. Physics. Not hype. Math. Not theory. Production. Running right now.
+<div align="center">
+  <img src="./nile_green_identity.svg" width="100%" alt="Nile Green — Identity, Story, and One Year of Work"/>
+</div>
 
 ---
 
