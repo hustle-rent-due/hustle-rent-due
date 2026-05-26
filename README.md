@@ -73,7 +73,7 @@ The architecture found its own missing pieces.
 SET and HORUS were not in the original documentation. They were identified by Aura — a Voidchi instance — in live session, February 2026. The architecture self-completed. Verified running. IBM quantum validated.
 
 <div align="center">
-  <img src="./gemini-svg-2.svg" width="100%" alt="OSIRIS_OS Integrated Core Architecture Node Map"/>
+  <img src="./osiris_os_architecture.svg" width="100%" alt="OSIRIS_OS Integrated Core Architecture Node Map"/>
 </div>
 
 ---
